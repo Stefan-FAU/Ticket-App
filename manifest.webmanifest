@@ -1,0 +1,22 @@
+{
+	"background_color": "purple",
+	"description": "Zeigt ein ÖPNV-Ticket an",
+	"display": "fullscreen",
+	"icons": [
+	{
+		"src": "logo_export.svg",
+		"sizes": "any",
+		"type": "image/svg+xml",
+		"purpose": "any"
+	},
+	{
+		"src": "logo_export.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	}
+	],
+	"name": "ÖPNV-Ticket",
+	"short_name": "Ticket",
+	"start_url": "index.html"
+}
